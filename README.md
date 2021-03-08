@@ -9,3 +9,6 @@ Steps to run the programs
 2. Download the codes, save the functions.tcl and program file (e.g. lj_tutorial.tcl) in the same folder (e.g. test).
 3. Execute the program from the terminal by
    /path-to-espresso-directory/./Espresso /test/lj_tutorial.tcl
+   
+However, running the programs successfully does not guarentee that the results are physically meaningful.
+
